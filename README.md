@@ -17,7 +17,8 @@ Essential steps in full characterization of color centers in SiC include spatial
 - Optical cage systems
 - Objective
 ## Setup:
-![Confocal_setup](https://github.com/user-attachments/assets/3d9c5ddd-1e99-4a18-b200-105494075309)
+![Confocal_setup](https://github.com/user-attachments/assets/e6cf6bb7-b7ba-42e6-b01c-a415abb71aaf)
+
 ### Key Requirements
 - Light must be properly focused on the sample and into the SPD.
 - Appropriate modules must be downloaded in your Python environment.
