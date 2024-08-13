@@ -2,7 +2,7 @@
 ## Background
 Quantum network promises applications that are beyond the reach of classical network, including distributed quantum computing, secure quantum communication, and distributed quantum sensing. The major challenge in quantum network is developing intermediate nodes that could reliably distribute entangled photons over long distances. Among other solid-state qubit platforms, vanadium doped silicon carbide has emerged as a particularly attractive candidate for quantum nodes due to its telecom range emission, mature growth and fabrication technique, and long coherence time.   
     
-Essential steps in full characterization of color centers in SiC include spatial mapping and determining resonant frequencies of the defects. **Here we share Python codes specifically to control Thorlabs Piezo Controllers, Santec tunable filter, and Swabian Time Tagger for both 2d spatial mapping and spectroscopy.** Additionally, data visualization MATALB codes are provided.
+Essential steps in full characterization of color centers in SiC include spatial mapping and determining resonant frequencies of the defects. ***Here we share Python codes specifically to control Thorlabs Piezo Controllers, Santec tunable filter, and Swabian Time Tagger for both 2d spatial mapping and spectroscopy.*** Additionally, data visualization MATALB codes are provided.
 
 ## What these codes will do
 - 2d Spatial Mapping
