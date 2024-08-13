@@ -25,10 +25,10 @@ Essential steps in full characterization of color centers in SiC include spatial
 - Appropriate modules must be downloaded in your Python environment.
 
 ## 2d Spatial Mapping Example Result
-![4H-SiC_one](https://github.com/user-attachments/assets/45b78ec4-d306-40b9-b689-9d14731eca2a)
+![4HScan](https://github.com/user-attachments/assets/4d1331e9-9953-4e52-b2b2-f102d16f87c6)
 
 ## Spectroscopy Example Result
-![image](https://github.com/user-attachments/assets/5d878638-9ab2-40a4-aeda-fd9f6129baf1)
+![spectro](https://github.com/user-attachments/assets/853fd653-8447-425b-9129-c0f76e1c95a5)
 
 ## References
 [1] Calusine, Greg, Alberto Politi, and David D. Awschalom. "Cavity-enhanced measurements of defect spins in silicon carbide." Physical Review Applied 6.1 (2016): 014019.  
