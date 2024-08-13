@@ -1,4 +1,4 @@
-# Confocal Microscope and spectroscopy with Thorlabs Piezo Controllers, Santec Tunable Filter, and Swabian Time Tagger
+# Confocal microscope and spectroscopy with Thorlabs Piezo Controllers, Santec Tunable Filter, and Swabian Time Tagger
 ## Background
 Quantum network promises applications that are beyond the reach of classical network, including distributed quantum computing, secure quantum communication, and distributed quantum sensing. The major challenge in quantum network is developing intermediate nodes that could reliably distribute entangled photons over long distances. Among other solid-state qubit platforms, vanadium doped silicon carbide has emerged as a particularly attractive candidate for quantum nodes due to its telecom range emission, mature growth and fabrication technique, and long coherence time.   
     
